@@ -8,6 +8,7 @@
     <version>0.0.1-SNAPSHOT</version>
     <modules>
         <module>learning4java</module>
+        <module>learning4algorithm</module>
     </modules>
     <name>learning4all</name>
 
