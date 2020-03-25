@@ -4,7 +4,7 @@ package com.learning4algorithm.leetcode;
  * 1389. Create Target Array in the Given Order
  */
 public class Solution1389 {
-    
+
     public int[] createTargetArray(int[] nums, int[] index) {
         int[] ret = new int[nums.length];
 
