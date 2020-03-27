@@ -1,4 +1,4 @@
-package com.learning4algorithm.leetcode;
+package com.learning4algorithm.leetcode.easy;
 
 /**
  * 1389. Create Target Array in the Given Order

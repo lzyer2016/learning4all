@@ -1,4 +1,4 @@
-package com.learning4algorithm.leetcode;
+package com.learning4algorithm.leetcode.easy;
 
 public class Solution1374 {
 

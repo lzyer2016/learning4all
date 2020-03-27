@@ -1,4 +1,4 @@
-package com.learning4algorithm.leetcode;
+package com.learning4algorithm.leetcode.easy;
 
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
