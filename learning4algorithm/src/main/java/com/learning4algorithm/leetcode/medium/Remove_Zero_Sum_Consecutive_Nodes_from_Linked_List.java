@@ -1,9 +1,6 @@
 package com.learning4algorithm.leetcode.medium;
 
-import java.util.ArrayList;
-import java.util.Collections;
 import java.util.HashMap;
-import java.util.List;
 import java.util.Map;
 
 public class Remove_Zero_Sum_Consecutive_Nodes_from_Linked_List {
