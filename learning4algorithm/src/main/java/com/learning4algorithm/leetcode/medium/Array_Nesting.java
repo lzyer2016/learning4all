@@ -1,10 +1,5 @@
 package com.learning4algorithm.leetcode.medium;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
-
 public class Array_Nesting {
 
     public int arrayNesting(int[] nums) {
