@@ -10,7 +10,7 @@ public class Letter_Combinations_of_a_Phone_Number {
         if (digits == null) {
             return Arrays.asList(digits);
         }
-        String[] letters = {"", "", "abc", "def", "ghi", "opq", "rst", "uvw", "xyz"};
+        String[] letters = {"", "", "abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz"}
         List<String> ret = new ArrayList<>();
         help(0, new StringBuilder(), letters, digits, ret);
         return ret;
