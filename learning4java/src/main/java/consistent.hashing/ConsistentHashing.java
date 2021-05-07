@@ -27,7 +27,6 @@ public class ConsistentHashing {
       addNode(node, i);
     }
   }
-
   private void addNode(Node node, int index) {
     long idx = getIdx(node, index);
     hashRing.put(idx, node);
