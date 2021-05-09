@@ -20,10 +20,5 @@ public class Test {
       Message temp = queueService.get();
       System.out.println(new String(temp.buffer));
     }
-    try {
-      System.in.read();
-    } catch (IOException e) {
-      e.printStackTrace();
-    }
   }
 }
